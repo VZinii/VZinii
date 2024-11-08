@@ -144,19 +144,20 @@ Possuo um canal no youtube "[Vitor Zini](https://www.youtube.com/@vzinii)" onde 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VZinii&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VZinii&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=VZinii&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VZinii&theme=algolia&custom_title=Tecnologias&langs_count=7" 
+    />
 </p>
+  
+
+
