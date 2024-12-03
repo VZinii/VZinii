@@ -155,7 +155,7 @@ Possuo um canal no youtube "[Vitor Zini](https://www.youtube.com/@vzinii)" onde 
         align="left" 
         alt="GitHub Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VZinii&theme=algolia&custom_title=Tecnologias&langs_count=7" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VZinii&theme=algolia&custom_title=Tecnologias&langs_count=7&hide=jupyter%20notebook" 
     />
 </p>
   
