@@ -2,7 +2,7 @@
 
 **`Programador FullStack`**
 
-Sou Vítor Zini, tenho 21 anos, nasci em Volta Redonda - RJ. 
+Sou Vítor Zini, tenho 22 anos, nasci em Volta Redonda - RJ. 
 Concluí o ensino médio no Centro de Ensino Integrado (CEI) em Paraty. Atualmente, estudo Ciência da Computação na Universidade Federal de Lavras e estou no oitavo período. Gosto de tecnologia, café e natação.
 Possuo um canal no youtube "[Vitor Zini](https://www.youtube.com/@vzinii)" onde publico alguns vídeos relacionados aos meus projetos.
 
