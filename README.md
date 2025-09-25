@@ -1,10 +1,9 @@
 # 👨‍💻 Vítor Zini 🏊‍♂️
 
-**`Programador FullStack`**
+**`FullStack Developer`**
 
-Sou Vítor Zini, tenho 22 anos, nasci em Volta Redonda - RJ. 
-Concluí o ensino médio no Centro de Ensino Integrado (CEI) em Paraty. Atualmente, estudo Ciência da Computação na Universidade Federal de Lavras e estou no oitavo período. Gosto de tecnologia, café e natação.
-Possuo um canal no youtube "[Vitor Zini](https://www.youtube.com/@vzinii)" onde publico alguns vídeos relacionados aos meus projetos.
+I am a Computer Science graduate from the Federal University of Lavras (UFLA) and currently work as a Software Engineer Trainee at SYDLE.
+I have a youtube channel "[Vitor Zini](https://www.youtube.com/@vzinii)" where I publish some videos related to my projects.
 
 <p align="left">
     <a href="https://www.youtube.com/@vzinii?sub_confirmation=1">
