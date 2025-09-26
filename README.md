@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-I am a Computer Science graduate from the Federal University of Lavras (UFLA) and currently work as a Software Engineer Trainee at SYDLE.
+I am a Computer Science graduate from the Federal University of Lavras (UFLA) and currently work as a Software Engineer Trainee.
 I have a youtube channel "[Vitor Zini](https://www.youtube.com/@vzinii)" where I publish some videos related to my projects.
 
 <p align="left">
